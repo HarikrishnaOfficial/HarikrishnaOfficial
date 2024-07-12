@@ -2,7 +2,6 @@
 - 👀 I’m interested in Full stack development
 - 🌱 I’m currently doing handson projects with MEAN & MERN
 - 📫 How to reach me ... harikrishnadhabbala1999@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...People think software engineers are printer fixers too
 
 <!---
