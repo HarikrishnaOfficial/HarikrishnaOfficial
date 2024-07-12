@@ -3,7 +3,7 @@
 - 🌱 I’m currently doing handson projects with MEAN & MERN
 - 📫 How to reach me ... harikrishnadhabbala1999@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...People think software engineers are printer fixers too
 
 <!---
 HarikrishnaOfficial/HarikrishnaOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
